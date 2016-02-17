@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Quirky_Fourofour>
+      <version>1.0</version>
+    </Quirky_Fourofour>
+  </modules>
+  <global>
+    <blocks>
+      <fourofour>
+        <class>Quirky_Fourofour_Block</class>
+      </fourofour>
+    </blocks>
+    <models>
+      <fourofour>
+        <class>Quirky_Fourofour_Model</class>
+      </fourofour>
+    </models>
+  </global>
+</config>
+

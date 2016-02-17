@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Quirky_Fourofour>
+      <active>true</active>
+      <codePool>local</codePool>
+    </Quirky_Fourofour>
+  </modules>
+</config>
+
